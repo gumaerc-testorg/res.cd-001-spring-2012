@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Leadership Conference Videos
 uid: b3384108-814d-b684-57a8-cf0f3f681bf6
 ---

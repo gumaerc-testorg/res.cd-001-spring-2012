@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Frequently Asked Questions
 uid: faa5ed87-2575-9179-598a-0b7346ef99e1
 ---
