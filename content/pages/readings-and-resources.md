@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Readings and Resources
 uid: 7a2a2722-71a2-d4d3-7188-272c4660337e
 ---

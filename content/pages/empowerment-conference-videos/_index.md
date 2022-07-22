@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Empowerment Conference Videos
 uid: 7c0cb815-e23f-19e5-dddc-7b7b91c06200
 ---
