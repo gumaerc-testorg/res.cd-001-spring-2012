@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents some frequently asked questions about the GWAMIT program
+  and its mission.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Frequently Asked Questions
