@@ -2,7 +2,8 @@
 content_type: resource
 description: Dr. Barbara Tannenbaum speaking on "Women, Communication and Power" at
   the 2012 Empowerment Conference. Photo courtesy of GWAMIT.
-file: /courses/res-cd-001-leadership-and-empowerment-resources-from-graduate-women-at-mit-gwamit-spring-2012/888b84c3c92c723dd6d2e4981e390d9f_res-cd001-th.jpg
+file: /ol-ocw-studio-app/courses/res-cd-001-leadership-and-empowerment-resources-from-graduate-women-at-mit-gwamit-spring-2012/888b84c3c92c723dd6d2e4981e390d9f_res-cd001-th.jpg
+file_size: 8569
 file_type: image/jpeg
 image_metadata:
   caption: Dr. Barbara Tannenbaum speaking on "Women, Communication and Power" at
