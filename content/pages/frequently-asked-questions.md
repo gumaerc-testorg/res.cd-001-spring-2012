@@ -24,4 +24,4 @@ GWAMIT's structure and size allows us to contribute to the development of gradua
 
 **Q:** _As a faculty member or alum, how can I get more involved with GWAMIT?_
 
-**A:** You are welcome to propose event ideas and/or let us know your desire to speak or serve on a panel. If you are local to the Boston area, you may also want to consider joining the GWAMIT {{% resource_link "775aa4d7-24d5-4613-8b91-ccb4fc06e61a" "Mentoring Program" %}}.
+**A:** You are welcome to propose event ideas and/or let us know your desire to speak or serve on a panel. If you are local to the Boston area, you may also want to consider joining the GWAMIT [Mentoring Program](https://sites.google.com/site/gwamitweb/mentoring-program).
